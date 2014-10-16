@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[clo:home|Door43 (clo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-clo|d43-clo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-clo/archive/master.zip|d43-clo.zip]]
+
+**Recent Changes**
+{{changes>ns = clo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/clo|Ethnologue data]]
+
